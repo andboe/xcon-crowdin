@@ -45,5 +45,6 @@
   "items": {
     "count": "There is {{count}} item",
     "count_plural": "There are {{count}} items"
-  }
+  },
+  "rant": "After long and careful consideration, I have come to the conclusion that WTI may, all things considered, not be the gold standard when it comes ti software localization tools"
 }
