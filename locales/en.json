@@ -39,7 +39,7 @@
   "profile": {
     "title": "Your Profile",
     "edit": "Edit Profile",
-    "age": "You are {{count}} year old",
+    "age": "You are {{count}} year old. You should not be here.",
     "age_plural": "You are {{count}} years old"
   },
   "items": {
