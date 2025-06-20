@@ -1,0 +1,10 @@
+base_path: '.'
+base_url: 'https://peopleware.api.crowdin.com'
+
+files:
+  [
+    {
+      source: '/locales/en.json',
+      translation: '/locales/%two_letters_code%.%file_extension%',
+    },
+  ]
