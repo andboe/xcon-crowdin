@@ -44,7 +44,7 @@
   "settings": {
     "2fa": "Enable two-factor authentication",
     "language": "Language",
-    "save": "Save Changes",
+    "save": "Save changes",
     "theme": "Theme",
     "title": "Settings"
   },
