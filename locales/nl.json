@@ -1,6 +1,6 @@
 {
   "dashboard": {
-    "farewell": "",
+    "farewell": "Dag",
     "greeting": "Hey, {{name}}!",
     "lastLogin": "Laatste keer ingelogd: {{date}}",
     "title": "Dashboard"
@@ -40,9 +40,9 @@
     "edit": "Profiel bewerken",
     "title": "Je profiel"
   },
-  "rant": "Na lang nadenken ben ik tot de conclusie gekomen dat WTI misschien niet de beste keuze is als het gaat om tools voor het lokaliseren van software. Een schokkende ontdekking!",
+  "rant": "Na lang nadenken ben ik tot de conclusie gekomen dat WTI, alles bij elkaar genomen, misschien niet de beste keuze is als het gaat om tools voor het lokaliseren van software. Wat een schokkend besef!",
   "settings": {
-    "2fa": "",
+    "2fa": "Tweefactorauthenticatie inschakelen",
     "language": "Taal",
     "save": "Wijzigingen opslaan",
     "theme": "Thema",
