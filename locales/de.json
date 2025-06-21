@@ -1,50 +1,51 @@
 {
-  "welcome": "Willkommen bei unserer Bewerbung!",
-  "login": {
-    "title": "Anmelden",
-    "username": "Benutzername",
-    "password": "Passwort",
-    "button": "Anmelden",
-    "forgotPassword": "Passwort vergessen?"
-  },
-  "logout": "Ausloggen",
   "dashboard": {
-    "title": "Armaturenbrett",
+    "farewell": "",
     "greeting": "Hey, {{name}}!",
-    "lastLogin": "Letzte Anmeldung: {{date}}"
-  },
-  "notifications": {
-    "zero": "Du hast keine neuen Benachrichtigungen.",
-    "one": "Du hast eine neue Benachrichtigung.",
-    "other": "Du hast {{count}} neue Benachrichtigungen."
-  },
-  "messages": {
-    "inbox": "Posteingang",
-    "unread": "{{count}} ungelesene Nachricht",
-    "unread_plural": "{{count}} ungelesene Nachrichten"
+    "lastLogin": "Letzte Anmeldung: {{date}}",
+    "title": "Armaturenbrett"
   },
   "errors": {
-    "network": "Ein Netzwerkfehler ist aufgetreten. Bitte versuch's nochmal.",
     "form": {
-      "required": "Das Feld „ {{field}} “ muss ausgefüllt werden.",
-      "minLength": "Das Feld „ {{field}} “ muss mindestens „ {{min}} “ Zeichen lang sein."
-    }
-  },
-  "settings": {
-    "title": "Einstellungen",
-    "language": "Sprache",
-    "theme": "Thema",
-    "save": "Änderungen speichern"
-  },
-  "profile": {
-    "title": "Dein Profil",
-    "edit": "Profil bearbeiten",
-    "age": "Du bist {{count}} Jahre alt. Du solltest nicht hier sein.",
-    "age_plural": "Du bist {{count}} Jahre alt"
+      "minLength": "Das Feld „ {{field}} “ muss mindestens „ {{min}} “ Zeichen lang sein.",
+      "required": "Das Feld „ {{field}} “ muss ausgefüllt werden."
+    },
+    "network": "Ein Netzwerkfehler ist aufgetreten. Bitte versuch's nochmal."
   },
   "items": {
     "count": "Es gibt einen Artikel „ {{count}} “ (Einige der besten Tipps für die Optimierung der Suchmaschinenoptimierung",
     "count_plural": "Es gibt {{count}} Artikel."
   },
-  "rant": "Nach langem Nachdenken bin ich zu dem Schluss gekommen, dass WTI vielleicht doch nicht der beste Standard für Softwarelokalisierungstools ist. Was für eine Überraschung!"
+  "login": {
+    "button": "Anmelden",
+    "forgotPassword": "Passwort vergessen?",
+    "password": "Passwort",
+    "title": "Anmelden",
+    "username": "Benutzername"
+  },
+  "logout": "Ausloggen",
+  "messages": {
+    "inbox": "Posteingang",
+    "unread": "{{count}} ungelesene Nachricht",
+    "unread_plural": "{{count}} ungelesene Nachrichten"
+  },
+  "notifications": {
+    "one": "Du hast eine neue Benachrichtigung.",
+    "other": "Du hast {{count}} neue Benachrichtigungen.",
+    "zero": "Du hast keine neuen Benachrichtigungen."
+  },
+  "profile": {
+    "age": "Du bist {{count}} Jahre alt. Du solltest nicht hier sein.",
+    "age_plural": "Du bist {{count}} Jahre alt",
+    "edit": "Profil bearbeiten",
+    "title": "Dein Profil"
+  },
+  "rant": "Nach langem Nachdenken bin ich zu dem Schluss gekommen, dass WTI vielleicht doch nicht der beste Standard für Softwarelokalisierungstools ist. Was für eine Überraschung!",
+  "settings": {
+    "language": "Sprache",
+    "save": "Änderungen speichern",
+    "theme": "Thema",
+    "title": "Einstellungen"
+  },
+  "welcome": "Willkommen bei unserer Bewerbung!"
 }

@@ -1,50 +1,51 @@
 {
-  "welcome": "Welcome to our application!",
-  "login": {
-    "title": "Login",
-    "username": "Username",
-    "password": "Password",
-    "button": "Sign In",
-    "forgotPassword": "Forgot your password?"
-  },
-  "logout": "Log out",
   "dashboard": {
-    "title": "Dashboard",
+    "farewell": "Bye",
     "greeting": "Hello, {{name}}!",
-    "lastLogin": "Last login: {{date}}"
-  },
-  "notifications": {
-    "zero": "You have no new notifications.",
-    "one": "You have 1 new notification.",
-    "other": "You have {{count}} new notifications."
-  },
-  "messages": {
-    "inbox": "Inbox",
-    "unread": "{{count}} unread message",
-    "unread_plural": "{{count}} unread messages"
+    "lastLogin": "Last login: {{date}}",
+    "title": "Dashboard"
   },
   "errors": {
-    "network": "A network error occurred. Please try again.",
     "form": {
-      "required": "The field {{field}} is required.",
-      "minLength": "The field {{field}} must be at least {{min}} characters long."
-    }
-  },
-  "settings": {
-    "title": "Settings",
-    "language": "Language",
-    "theme": "Theme",
-    "save": "Save Changes"
-  },
-  "profile": {
-    "title": "Your Profile",
-    "edit": "Edit Profile",
-    "age": "You are {{count}} year old. You should not be here.",
-    "age_plural": "You are {{count}} years old"
+      "minLength": "The field {{field}} must be at least {{min}} characters long.",
+      "required": "The field {{field}} is required."
+    },
+    "network": "A network error occurred. Please try again."
   },
   "items": {
     "count": "There is {{count}} item",
     "count_plural": "There are {{count}} items"
   },
-  "rant": "After long and careful consideration, I have come to the conclusion that WTI may, all things considered, not be the gold standard when it comes to software localization tools. A shocking realization!"
+  "login": {
+    "button": "Sign In",
+    "forgotPassword": "Forgot your password?",
+    "password": "Password",
+    "title": "Login",
+    "username": "Username"
+  },
+  "logout": "Log out",
+  "messages": {
+    "inbox": "Inbox",
+    "unread": "{{count}} unread message",
+    "unread_plural": "{{count}} unread messages"
+  },
+  "notifications": {
+    "one": "You have 1 new notification.",
+    "other": "You have {{count}} new notifications.",
+    "zero": "You have no new notifications."
+  },
+  "profile": {
+    "age": "You are {{count}} year old. You should not be here.",
+    "age_plural": "You are {{count}} years old",
+    "edit": "Edit Profile",
+    "title": "Your Profile"
+  },
+  "rant": "After long and careful consideration, I have come to the conclusion that WTI may, all things considered, not be the gold standard when it comes to software localization tools. A shocking realization!",
+  "settings": {
+    "language": "Language",
+    "save": "Save Changes",
+    "theme": "Theme",
+    "title": "Settings"
+  },
+  "welcome": "Welcome to our application!"
 }

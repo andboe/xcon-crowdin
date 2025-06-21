@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+/easy-i18n.xml
+/git_toolbox_prj.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/xcon-crowdin.iml

@@ -1,50 +1,51 @@
 {
-  "welcome": "¡Bienvenido a nuestra aplicación!",
-  "login": {
-    "title": "Iniciar sesión",
-    "username": "Nombre de usuario",
-    "password": "Contraseña",
-    "button": "Iniciar sesión",
-    "forgotPassword": "¿Olvidaste tu contraseña?"
-  },
-  "logout": "Cerrar sesión",
   "dashboard": {
-    "title": "Panel de control",
+    "farewell": "",
     "greeting": "¡Hola, {{name}}!",
-    "lastLogin": "Último inicio de sesión: {{date}}"
-  },
-  "notifications": {
-    "zero": "No tienes nuevas notificaciones.",
-    "one": "Tienes 1 notificación nueva.",
-    "other": "Tienes {{count}} notificaciones nuevas."
-  },
-  "messages": {
-    "inbox": "Bandeja de entrada",
-    "unread": "{{count}} mensaje no leído",
-    "unread_plural": "{{count}} mensajes no leídos"
+    "lastLogin": "Último inicio de sesión: {{date}}",
+    "title": "Panel de control"
   },
   "errors": {
-    "network": "Se ha producido un error de red. Inténtalo de nuevo.",
     "form": {
-      "required": "El campo {{field}} es obligatorio.",
-      "minLength": "El campo {{field}} debe tener al menos {{min}} caracteres de longitud."
-    }
-  },
-  "settings": {
-    "title": "Configuración",
-    "language": "Idioma",
-    "theme": "Tema",
-    "save": "Guardar cambios"
-  },
-  "profile": {
-    "title": "Tu perfil",
-    "edit": "Editar perfil",
-    "age": "Tienes {{count}} años. No deberías estar aquí.",
-    "age_plural": "Tienes {{count}} años"
+      "minLength": "El campo {{field}} debe tener al menos {{min}} caracteres de longitud.",
+      "required": "El campo {{field}} es obligatorio."
+    },
+    "network": "Se ha producido un error de red. Inténtalo de nuevo."
   },
   "items": {
     "count": "Hay un {{count}} artículo",
     "count_plural": "Hay {{count}} artículos"
   },
-  "rant": "Tras una larga y cuidadosa reflexión, he llegado a la conclusión de que, considerando todos los factores, WTI podría no ser el estándar de referencia en lo que respecta a herramientas de localización de software. ¡Una conclusión impactante!"
+  "login": {
+    "button": "Iniciar sesión",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "password": "Contraseña",
+    "title": "Iniciar sesión",
+    "username": "Nombre de usuario"
+  },
+  "logout": "Cerrar sesión",
+  "messages": {
+    "inbox": "Bandeja de entrada",
+    "unread": "{{count}} mensaje no leído",
+    "unread_plural": "{{count}} mensajes no leídos"
+  },
+  "notifications": {
+    "one": "Tienes 1 notificación nueva.",
+    "other": "Tienes {{count}} notificaciones nuevas.",
+    "zero": "No tienes nuevas notificaciones."
+  },
+  "profile": {
+    "age": "Tienes {{count}} años. No deberías estar aquí.",
+    "age_plural": "Tienes {{count}} años",
+    "edit": "Editar perfil",
+    "title": "Tu perfil"
+  },
+  "rant": "Tras una larga y cuidadosa reflexión, he llegado a la conclusión de que, considerando todos los factores, WTI podría no ser el estándar de referencia en lo que respecta a herramientas de localización de software. ¡Una conclusión impactante!",
+  "settings": {
+    "language": "Idioma",
+    "save": "Guardar cambios",
+    "theme": "Tema",
+    "title": "Configuración"
+  },
+  "welcome": "¡Bienvenido a nuestra aplicación!"
 }
