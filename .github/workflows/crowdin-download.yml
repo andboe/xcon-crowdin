@@ -2,7 +2,9 @@ name: Crowdin - Download translations
 
 on:
   repository_dispatch:
-    types: [crowdin]
+    types:
+      - pre-translation
+      - final-translation
   workflow_dispatch:
 
 
