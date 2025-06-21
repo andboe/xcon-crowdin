@@ -1,5 +1,9 @@
 {
-  "cheese": "Cheese!",
+  "cheese": {
+    "common": "Cheese!",
+    "edamer": "Edamer!",
+    "wensleydale": "Wensleydale!"
+  },
   "dashboard": {
     "farewell": "Bye",
     "greeting": "Hello, {{name}}!",
