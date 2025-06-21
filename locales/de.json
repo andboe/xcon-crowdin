@@ -42,6 +42,7 @@
   },
   "rant": "Nach langem Nachdenken bin ich zu dem Schluss gekommen, dass WTI vielleicht doch nicht der beste Standard für Softwarelokalisierungstools ist. Was für eine Überraschung!",
   "settings": {
+    "2fa": "",
     "language": "Sprache",
     "save": "Änderungen speichern",
     "theme": "Thema",

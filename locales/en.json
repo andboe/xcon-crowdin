@@ -42,6 +42,7 @@
   },
   "rant": "After long and careful consideration, I have come to the conclusion that WTI may, all things considered, not be the gold standard when it comes to software localization tools. A shocking realization!",
   "settings": {
+    "2fa": "Enable two-factor authentication",
     "language": "Language",
     "save": "Save Changes",
     "theme": "Theme",

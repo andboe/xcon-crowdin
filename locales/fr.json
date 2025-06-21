@@ -42,6 +42,7 @@
   },
   "rant": "Après y avoir bien réfléchi, j'ai décidé que WTI n'était peut-être pas la meilleure option pour localiser des logiciels. Ça m'a vraiment surpris !",
   "settings": {
+    "2fa": "",
     "language": "Langue",
     "save": "Enregistrer les modifications",
     "theme": "Thème",
