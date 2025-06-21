@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'locales/en.json'
+  workflow_dispatch:
 
 jobs:
   crowdin-upload:
