@@ -1,0 +1,50 @@
+{
+  "welcome": "Bienvenue sur notre application !",
+  "login": {
+    "title": "Connexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "button": "Se connecter",
+    "forgotPassword": "T'as oublié ton mot de passe ?"
+  },
+  "logout": "Déconnexion",
+  "dashboard": {
+    "title": "Tableau de bord",
+    "greeting": "Salut, {{name}}!",
+    "lastLogin": "Dernière connexion : {{date}}"
+  },
+  "notifications": {
+    "zero": "Tu n'as pas de nouvelles notifications.",
+    "one": "Tu as une nouvelle notification.",
+    "other": "T'as de nouvelles notifications sur {{count}} ."
+  },
+  "messages": {
+    "inbox": "Boîte de réception",
+    "unread": "{{count}} message non lu",
+    "unread_plural": "{{count}} messages non lus"
+  },
+  "errors": {
+    "network": "Une erreur réseau s'est produite. Essaie encore.",
+    "form": {
+      "required": "Le champ « {{field}} » (Numéro de licence d'État) est obligatoire.",
+      "minLength": "Le champ « {{field}} » doit contenir au moins « {{min}} » caractères."
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "theme": "Thème",
+    "save": "Enregistrer les modifications"
+  },
+  "profile": {
+    "title": "Ton profil",
+    "edit": "Modifier le profil",
+    "age": "Tu as {{count}} ans. Tu ne devrais pas être ici.",
+    "age_plural": "Tu as {{count}} ans"
+  },
+  "items": {
+    "count": "Il y a un article intitulé « {{count}} » (Le problème de la « culture du viol »).",
+    "count_plural": "Il y a {{count}} articles"
+  },
+  "rant": "Après y avoir bien réfléchi, j'ai décidé que WTI n'était peut-être pas la meilleure option pour localiser des logiciels. Ça m'a vraiment surpris !"
+}
