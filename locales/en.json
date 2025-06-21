@@ -17,7 +17,7 @@
     "count_plural": "There are {{count}} items"
   },
   "login": {
-    "button": "Sign In",
+    "button": "Sign in",
     "forgotPassword": "Forgot your password?",
     "password": "Password",
     "title": "Login",
