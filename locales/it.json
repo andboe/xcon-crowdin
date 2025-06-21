@@ -1,0 +1,50 @@
+{
+  "welcome": "Benvenuto nella nostra app!",
+  "login": {
+    "title": "Accedi",
+    "username": "Nome utente",
+    "password": "Password",
+    "button": "Accedi",
+    "forgotPassword": "Hai dimenticato la password?"
+  },
+  "logout": "Esci",
+  "dashboard": {
+    "title": "Pannello di controllo",
+    "greeting": "Ciao, {{name}}!",
+    "lastLogin": "Ultimo accesso: {{date}}"
+  },
+  "notifications": {
+    "zero": "Non ci sono nuove notifiche.",
+    "one": "Hai 1 nuova notifica.",
+    "other": "Hai {{count}} nuove notifiche."
+  },
+  "messages": {
+    "inbox": "Posta in arrivo",
+    "unread": "{{count}} messaggio non letto",
+    "unread_plural": "{{count}} messaggi non letti"
+  },
+  "errors": {
+    "network": "C'è stato un problema con la connessione. Prova di nuovo.",
+    "form": {
+      "required": "Il campo \" {{field}} \" (Numero di telefono cellulare) è obbligatorio.",
+      "minLength": "Il campo \" {{field}} \" deve contenere almeno {{min}} caratteri."
+    }
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "language": "Lingua",
+    "theme": "Tema",
+    "save": "Salva le modifiche"
+  },
+  "profile": {
+    "title": "Il tuo profilo",
+    "edit": "Modifica profilo",
+    "age": "Sei {{count}} anni. Non dovresti essere qui.",
+    "age_plural": "Hai {{count}} anni"
+  },
+  "items": {
+    "count": "C'è un articolo su {{count}}",
+    "count_plural": "Ci sono {{count}} articoli"
+  },
+  "rant": "Dopo averci pensato un sacco, ho capito che il WTI potrebbe non essere il massimo quando si parla di strumenti per localizzare software. Che sorpresa!"
+}

@@ -1,0 +1,50 @@
+{
+  "welcome": "Welkom bij onze app!",
+  "login": {
+    "title": "Inloggen",
+    "username": "Gebruikersnaam",
+    "password": "Wachtwoord",
+    "button": "Inloggen",
+    "forgotPassword": "Je wachtwoord vergeten?"
+  },
+  "logout": "Uitloggen",
+  "dashboard": {
+    "title": "Dashboard",
+    "greeting": "Hey, {{name}}!",
+    "lastLogin": "Laatste keer ingelogd: {{date}}"
+  },
+  "notifications": {
+    "zero": "Je hebt geen nieuwe meldingen.",
+    "one": "Je hebt 1 nieuwe melding.",
+    "other": "Je hebt {{count}} nieuwe meldingen."
+  },
+  "messages": {
+    "inbox": "Inbox",
+    "unread": "{{count}} ongelezen bericht",
+    "unread_plural": "{{count}} ongelezen berichten"
+  },
+  "errors": {
+    "network": "Er is een netwerkfout opgetreden. Probeer het nog eens.",
+    "form": {
+      "required": "Het veld ' {{field}} ' moet ingevuld worden.",
+      "minLength": "Het veld ' {{field}} ' moet minstens ' {{min}} ' tekens lang zijn."
+    }
+  },
+  "settings": {
+    "title": "Instellingen",
+    "language": "Taal",
+    "theme": "Thema",
+    "save": "Wijzigingen opslaan"
+  },
+  "profile": {
+    "title": "Je profiel",
+    "edit": "Profiel bewerken",
+    "age": "Je bent {{count}} jaar oud. Je hoort hier niet te zijn.",
+    "age_plural": "Je bent {{count}} jaar oud"
+  },
+  "items": {
+    "count": "Er is een item met de naam \" {{count}}\".",
+    "count_plural": "Er zijn {{count}} items"
+  },
+  "rant": "Na lang nadenken ben ik tot de conclusie gekomen dat WTI misschien niet de beste keuze is als het gaat om tools voor het lokaliseren van software. Een schokkende ontdekking!"
+}
