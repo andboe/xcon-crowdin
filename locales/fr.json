@@ -1,6 +1,6 @@
 {
   "dashboard": {
-    "farewell": "",
+    "farewell": "Salut",
     "greeting": "Salut, {{name}}!",
     "lastLogin": "Dernière connexion : {{date}}",
     "title": "Tableau de bord"
@@ -35,14 +35,14 @@
     "zero": "Tu n'as pas de nouvelles notifications."
   },
   "profile": {
-    "age": "Tu as {{count}} ans. Tu ne devrais pas être ici.",
+    "age": "Tu as {{count}} ans. T'as rien à faire ici.",
     "age_plural": "Tu as {{count}} ans",
     "edit": "Modifier le profil",
     "title": "Ton profil"
   },
-  "rant": "Après y avoir bien réfléchi, j'ai décidé que WTI n'était peut-être pas la meilleure option pour localiser des logiciels. Ça m'a vraiment surpris !",
+  "rant": "Après y avoir bien réfléchi, j'ai décidé que WTI n'est peut-être pas la meilleure option pour localiser des logiciels. Quelle révélation !",
   "settings": {
-    "2fa": "",
+    "2fa": "Active l'authentification à deux facteurs",
     "language": "Langue",
     "save": "Enregistrer les modifications",
     "theme": "Thème",

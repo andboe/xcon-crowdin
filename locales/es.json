@@ -1,16 +1,16 @@
 {
   "dashboard": {
-    "farewell": "",
+    "farewell": "Adiós",
     "greeting": "¡Hola, {{name}}!",
     "lastLogin": "Último inicio de sesión: {{date}}",
     "title": "Panel de control"
   },
   "errors": {
     "form": {
-      "minLength": "El campo {{field}} debe tener al menos {{min}} caracteres de longitud.",
+      "minLength": "El campo {{field}} debe tener al menos {{min}} caracteres.",
       "required": "El campo {{field}} es obligatorio."
     },
-    "network": "Se ha producido un error de red. Inténtalo de nuevo."
+    "network": "Se ha producido un error de red. Por favor, vuelve a intentarlo."
   },
   "items": {
     "count": "Hay un {{count}} artículo",
@@ -40,9 +40,9 @@
     "edit": "Editar perfil",
     "title": "Tu perfil"
   },
-  "rant": "Tras una larga y cuidadosa reflexión, he llegado a la conclusión de que, considerando todos los factores, WTI podría no ser el estándar de referencia en lo que respecta a herramientas de localización de software. ¡Una conclusión impactante!",
+  "rant": "Tras una larga y cuidadosa reflexión, he llegado a la conclusión de que, considerando todos los factores, WTI podría no ser el estándar de referencia en lo que respecta a herramientas de localización de software. ¡Una revelación impactante!",
   "settings": {
-    "2fa": "",
+    "2fa": "Activa la autenticación de dos factores",
     "language": "Idioma",
     "save": "Guardar cambios",
     "theme": "Tema",
