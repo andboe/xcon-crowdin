@@ -37,8 +37,8 @@
   "profile": {
     "age": "You are {{count}} year old. You should not be here.",
     "age_plural": "You are {{count}} years old",
-    "edit": "Edit Profile",
-    "title": "Your Profile"
+    "edit": "Edit profile",
+    "title": "Your profile"
   },
   "rant": "After long and careful consideration, I have come to the conclusion that WTI may, all things considered, not be the gold standard when it comes to software localization tools. A shocking realization!",
   "settings": {
