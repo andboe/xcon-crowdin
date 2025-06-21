@@ -24,7 +24,7 @@
     "unread_plural": "{{count}} unread messages"
   },
   "errors": {
-    "network": "Network error occurred. Please try again.",
+    "network": "A network error occurred. Please try again.",
     "form": {
       "required": "The field {{field}} is required.",
       "minLength": "The field {{field}} must be at least {{min}} characters long."
