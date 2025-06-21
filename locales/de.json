@@ -1,20 +1,20 @@
 {
   "dashboard": {
-    "farewell": "",
-    "greeting": "Hey, {{name}}!",
+    "farewell": "Tschüss",
+    "greeting": "Hallo {{name}}!",
     "lastLogin": "Letzte Anmeldung: {{date}}",
-    "title": "Armaturenbrett"
+    "title": "Dashboard"
   },
   "errors": {
     "form": {
-      "minLength": "Das Feld „ {{field}} “ muss mindestens „ {{min}} “ Zeichen lang sein.",
-      "required": "Das Feld „ {{field}} “ muss ausgefüllt werden."
+      "minLength": "Das Feld {{field}} muss mindestens {{min}} Zeichen lang sein.",
+      "required": "Das Feld {{field}} ist ein Pflichtfeld."
     },
-    "network": "Ein Netzwerkfehler ist aufgetreten. Bitte versuch's nochmal."
+    "network": "Ein Netzwerkproblem ist aufgetreten. Versuch's nochmal."
   },
   "items": {
-    "count": "Es gibt einen Artikel „ {{count}} “ (Einige der besten Tipps für die Optimierung der Suchmaschinenoptimierung",
-    "count_plural": "Es gibt {{count}} Artikel."
+    "count": "Es gibt {{count}} Eintrag",
+    "count_plural": "Es gibt {{count}} Einträge"
   },
   "login": {
     "button": "Anmelden",
@@ -40,13 +40,13 @@
     "edit": "Profil bearbeiten",
     "title": "Dein Profil"
   },
-  "rant": "Nach langem Nachdenken bin ich zu dem Schluss gekommen, dass WTI vielleicht doch nicht der beste Standard für Softwarelokalisierungstools ist. Was für eine Überraschung!",
+  "rant": "Nach reiflicher Überlegung bin ich zu dem Schluss gekommen, dass WTI vielleicht doch nicht zu den ultimativen Softwarelokalisierungs-Tools gehört. Eine schockierende Erkenntnis!",
   "settings": {
-    "2fa": "",
+    "2fa": "Zwei-Faktor-Authentifizierung aktivieren",
     "language": "Sprache",
     "save": "Änderungen speichern",
     "theme": "Thema",
     "title": "Einstellungen"
   },
-  "welcome": "Willkommen bei unserer Bewerbung!"
+  "welcome": "Willkommen in unserer Anwendung!"
 }
