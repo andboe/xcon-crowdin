@@ -1,4 +1,5 @@
 {
+  "cheese": "Cheese!",
   "dashboard": {
     "farewell": "Bye",
     "greeting": "Hello, {{name}}!",
