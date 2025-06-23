@@ -1,0 +1,60 @@
+{
+  "cheese": {
+    "brie": "Brie !",
+    "common": "Fromage !",
+    "edamer": "Edamer !",
+    "maasdamer": "Maasdamer !",
+    "wensleydale": "Wensleydale !",
+    "camembert": "Camembert !"
+  },
+  "dashboard": {
+    "farewell": "Salut",
+    "greeting": "Salut, {{name}}!",
+    "lastLogin": "Dernière connexion : {{date}}",
+    "title": "Tableau de bord"
+  },
+  "errors": {
+    "form": {
+      "minLength": "Le champ « {{field}} » doit contenir au moins « {{min}} » caractères.",
+      "required": "Le champ « {{field}} » (Numéro de licence d'État) est obligatoire."
+    },
+    "network": "Une erreur réseau s'est produite. Essaie encore."
+  },
+  "items": {
+    "count": "Il y a un article intitulé « {{count}} » (Le problème de la « liberté d'expression » dans",
+    "count_plural": "Il y a {{count}} articles"
+  },
+  "login": {
+    "button": "Se connecter",
+    "forgotPassword": "T'as oublié ton mot de passe ?",
+    "password": "Mot de passe",
+    "title": "Connexion",
+    "username": "Nom d'utilisateur"
+  },
+  "logout": "Déconnexion",
+  "messages": {
+    "inbox": "Boîte de réception",
+    "unread": "{{count}} message non lu",
+    "unread_plural": "{{count}} messages non lus"
+  },
+  "notifications": {
+    "one": "Tu as une nouvelle notification.",
+    "other": "T'as {{count}} nouvelles notifications.",
+    "zero": "Tu n'as pas de nouvelles notifications."
+  },
+  "profile": {
+    "age": "Tu as {{count}} ans. T'as rien à faire ici.",
+    "age_plural": "Tu as {{count}} ans",
+    "edit": "Modifier le profil",
+    "title": "Ton profil"
+  },
+  "rant": "Après y avoir bien réfléchi, j'ai décidé que WTI n'est peut-être pas la meilleure option pour localiser des logiciels. Quelle révélation !",
+  "settings": {
+    "2fa": "Active l'authentification à deux facteurs",
+    "language": "Langue",
+    "save": "Enregistrer les modifications",
+    "theme": "Thème",
+    "title": "Paramètres"
+  },
+  "welcome": "Bienvenue sur notre application !"
+}

@@ -1,0 +1,60 @@
+{
+  "cheese": {
+    "brie": "Brie!",
+    "common": "Cheese!",
+    "edamer": "Edamer!",
+    "maasdamer": "Maasdamer!",
+    "wensleydale": "Wensleydale!",
+    "camembert": "Camembert!"
+  },
+  "dashboard": {
+    "farewell": "Ciao",
+    "greeting": "Ciao, {{name}}!",
+    "lastLogin": "Ultimo accesso: {{date}}",
+    "title": "Pannello di controllo"
+  },
+  "errors": {
+    "form": {
+      "minLength": "Il campo \" {{field}} \" deve contenere almeno {{min}} caratteri.",
+      "required": "Il campo \" {{field}} \" (Numero di telefono cellulare) è obbligatorio."
+    },
+    "network": "C'è stato un problema con la connessione. Prova di nuovo, per favore."
+  },
+  "items": {
+    "count": "C'è un articolo su {{count}}",
+    "count_plural": "Ci sono {{count}} articoli"
+  },
+  "login": {
+    "button": "Accedi",
+    "forgotPassword": "Hai dimenticato la password?",
+    "password": "Password",
+    "title": "Accedi",
+    "username": "Nome utente"
+  },
+  "logout": "Esci",
+  "messages": {
+    "inbox": "Posta in arrivo",
+    "unread": "{{count}} messaggio non letto",
+    "unread_plural": "{{count}} messaggi non letti"
+  },
+  "notifications": {
+    "one": "Hai 1 nuova notifica.",
+    "other": "Hai {{count}} nuove notifiche.",
+    "zero": "Non ci sono nuove notifiche."
+  },
+  "profile": {
+    "age": "Sei {{count}} anni. Non dovresti essere qui.",
+    "age_plural": "Hai {{count}} anni",
+    "edit": "Modifica il tuo profilo",
+    "title": "Il tuo profilo"
+  },
+  "rant": "Dopo averci pensato un sacco, ho deciso che il WTI potrebbe non essere il massimo quando si parla di strumenti per localizzare software. Che sorpresa!",
+  "settings": {
+    "2fa": "Attiva l'autenticazione a due fattori",
+    "language": "Lingua",
+    "save": "Salva le modifiche",
+    "theme": "Tema",
+    "title": "Impostazioni"
+  },
+  "welcome": "Benvenuto nella nostra app!"
+}
