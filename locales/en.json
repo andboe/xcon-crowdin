@@ -11,7 +11,7 @@
     "wensleydale": "Wensleydale!"
   },
   "dashboard": {
-    "farewell": "Bye",
+    "farewell": "Byebye",
     "greeting": "Hello, {{name}}!",
     "lastLogin": "Last login: {{date}}",
     "title": "Dashboard"
