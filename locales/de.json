@@ -1,14 +1,17 @@
 {
   "cheese": {
     "brie": "Brie!",
+    "camembert": "Camembert!",
     "common": "Käse!",
     "edamer": "Edamer!",
+    "is": {
+      "great": "Ein Leben ohne Käse ist möglich, aber sinnlos."
+    },
     "maasdamer": "Maasdamer!",
-    "wensleydale": "Wensleydale!",
-    "camembert": "Camembert!"
+    "wensleydale": "Wensleydale!"
   },
   "dashboard": {
-    "farewell": "Tschüssi",
+    "farewell": "Tschüss",
     "greeting": "Hallo {{name}}!",
     "lastLogin": "Letzte Anmeldung: {{date}}",
     "title": "Dashboard"
