@@ -4,12 +4,15 @@
     "camembert": "Camembert !",
     "common": "Fromage !",
     "edamer": "Edamer !",
+    "is": {
+      "great": "On peut vivre sans fromage, mais ça ne sert à rien."
+    },
     "maasdamer": "Maasdamer !",
-    "more": "",
+    "more": "Plus de fromage !",
     "wensleydale": "Wensleydale !"
   },
   "dashboard": {
-    "farewell": "Salut",
+    "farewell": "Salut !",
     "greeting": "Salut, {{name}}!",
     "lastLogin": "Dernière connexion : {{date}}",
     "title": "Tableau de bord"
