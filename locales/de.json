@@ -1,11 +1,12 @@
 {
   "cheese": {
     "brie": "Brie!",
+    "camembert": "Camembert!",
     "common": "Käse!",
     "edamer": "Edamer!",
     "maasdamer": "Maasdamer!",
-    "wensleydale": "Wensleydale!",
-    "camembert": "Camembert!"
+    "more": "",
+    "wensleydale": "Wensleydale!"
   },
   "dashboard": {
     "farewell": "Tschüssi",
